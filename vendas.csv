@@ -1,0 +1,81 @@
+data,loja,regiao,produto,quantidade,preco_unitario
+2025-01-01 00:00:00.000000000,Loja Centro,Centro-Oeste,Pizza Vegetariana,2.0,35.0
+2025-01-03 06:41:00.759493670,Loja Shopping,Sul,Pizza Portuguesa,7.0,25.0
+2025-01-05 13:22:01.518987341,Loja Sul,Sudeste,Pizza Frango,2.0,45.0
+2025-01-07 20:03:02.278481012,Loja Norte,Centro-Oeste,Pizza Frango,8.0,55.0
+2025-01-10 02:44:03.037974683,Loja Norte,Nordeste,Pizza Frango,7.0,55.0
+2025-01-12 09:25:03.797468354,Loja Shopping,Nordeste,Pizza Quatro Queijos,1.0,30.0
+2025-01-14 16:06:04.556962025,Loja Centro,Sudeste,Pizza Calabresa,9.0,30.0
+2025-01-16 22:47:05.316455696,Loja Sul,Sul,Pizza Calabresa,,25.0
+2025-01-19 05:28:06.075949367,Loja Centro,Centro-Oeste,Pizza Frango,9.0,25.0
+2025-01-21 12:09:06.835443038,Loja Centro,Centro-Oeste,Pizza Margherita,1.0,40.0
+2025-01-23 18:50:07.594936708,Loja Sul,Sul,Pizza Margherita,2.0,40.0
+2025-01-26 01:31:08.354430379,Loja Shopping,Centro-Oeste,Pizza Margherita,6.0,35.0
+2025-01-28 08:12:09.113924050,Loja Sul,Centro-Oeste,Pizza Quatro Queijos,3.0,35.0
+2025-01-30 14:53:09.873417721,Loja Shopping,Sul,Pizza Quatro Queijos,4.0,50.0
+2025-02-01 21:34:10.632911392,Loja Sul,Centro-Oeste,Pizza Quatro Queijos,8.0,40.0
+2025-02-04 04:15:11.392405063,Loja Shopping,Sul,Pizza Frango,2.0,
+2025-02-06 10:56:12.151898734,Loja Sul,Sudeste,Pizza Quatro Queijos,8.0,55.0
+2025-02-08 17:37:12.911392405,Loja Centro,Nordeste,Pizza Margherita,2.0,35.0
+2025-02-11 00:18:13.670886076,Loja Shopping,Nordeste,Pizza Vegetariana,2.0,30.0
+2025-02-13 06:59:14.430379746,Loja Norte,Sudeste,Pizza Portuguesa,7.0,55.0
+2025-02-15 13:40:15.189873417,Loja Sul,Centro-Oeste,Pizza Vegetariana,9.0,45.0
+2025-02-17 20:21:15.949367088,Loja Norte,Sudeste,Pizza Margherita,2.0,35.0
+2025-02-20 03:02:16.708860759,Loja Centro,Centro-Oeste,Pizza Frango,4.0,45.0
+2025-02-22 09:43:17.468354430,Loja Shopping,Sudeste,Pizza Quatro Queijos,11.0,40.0
+2025-02-24 16:24:18.227848101,Loja Shopping,Centro-Oeste,Pizza Frango,11.0,55.0
+2025-02-26 23:05:18.987341772,Loja Sul,Centro-Oeste,Pizza Frango,7.0,30.0
+2025-03-01 05:46:19.746835443,Loja Norte,Centro-Oeste,Pizza Margherita,5.0,55.0
+2025-03-03 12:27:20.506329114,Loja Shopping,Nordeste,Pizza Frango,4.0,55.0
+2025-03-05 19:08:21.265822784,Loja Sul,Sul,Pizza Calabresa,7.0,30.0
+2025-03-08 01:49:22.025316455,Loja Norte,Nordeste,Pizza Calabresa,7.0,30.0
+2025-03-10 08:30:22.784810126,Loja Norte,Sul,Pizza Quatro Queijos,4.0,40.0
+2025-03-12 15:11:23.544303797,Loja Centro,Centro-Oeste,Pizza Portuguesa,,25.0
+2025-03-14 21:52:24.303797468,Loja Centro,Nordeste,Pizza Portuguesa,2.0,35.0
+2025-03-17 04:33:25.063291139,Loja Sul,Sul,Pizza Frango,11.0,40.0
+2025-03-19 11:14:25.822784810,Loja Shopping,Nordeste,Pizza Vegetariana,5.0,55.0
+2025-03-21 17:55:26.582278481,Loja Centro,Nordeste,Pizza Margherita,6.0,55.0
+2025-03-24 00:36:27.341772152,Loja Shopping,Sudeste,Pizza Frango,6.0,30.0
+2025-03-26 07:17:28.101265822,Loja Shopping,Sudeste,Pizza Margherita,9.0,55.0
+2025-03-28 13:58:28.860759493,Loja Norte,Sudeste,Pizza Frango,1.0,25.0
+2025-03-30 20:39:29.620253164,Loja Sul,Sudeste,Pizza Vegetariana,1.0,50.0
+2025-04-02 03:20:30.379746835,Loja Centro,Sul,Pizza Frango,4.0,50.0
+2025-04-04 10:01:31.139240506,Loja Shopping,Nordeste,Pizza Vegetariana,6.0,55.0
+2025-04-06 16:42:31.898734177,Loja Sul,Nordeste,Pizza Frango,8.0,30.0
+2025-04-08 23:23:32.658227848,Loja Norte,Sul,Pizza Quatro Queijos,6.0,55.0
+2025-04-11 06:04:33.417721518,Loja Centro,Centro-Oeste,Pizza Frango,5.0,25.0
+2025-04-13 12:45:34.177215189,Loja Shopping,Nordeste,Pizza Calabresa,11.0,40.0
+2025-04-15 19:26:34.936708860,Loja Norte,Sudeste,Pizza Quatro Queijos,2.0,40.0
+2025-04-18 02:07:35.696202532,Loja Shopping,Centro-Oeste,Pizza Vegetariana,7.0,35.0
+2025-04-20 08:48:36.455696202,Loja Sul,Nordeste,Pizza Calabresa,6.0,25.0
+2025-04-22 15:29:37.215189872,Loja Shopping,Nordeste,Pizza Quatro Queijos,6.0,50.0
+2025-04-24 22:10:37.974683544,Loja Shopping,Nordeste,Pizza Calabresa,9.0,35.0
+2025-04-27 04:51:38.734177214,Loja Centro,Nordeste,Pizza Quatro Queijos,3.0,45.0
+2025-04-29 11:32:39.493670886,Loja Norte,Sudeste,Pizza Quatro Queijos,11.0,35.0
+2025-05-01 18:13:40.253164556,Loja Norte,Nordeste,Pizza Frango,4.0,35.0
+2025-05-04 00:54:41.012658228,Loja Norte,Centro-Oeste,Pizza Quatro Queijos,6.0,55.0
+2025-05-06 07:35:41.772151898,Loja Centro,Sul,Pizza Calabresa,6.0,25.0
+2025-05-08 14:16:42.531645568,Loja Sul,Nordeste,Pizza Margherita,10.0,
+2025-05-10 20:57:43.291139240,Loja Centro,Sudeste,Pizza Margherita,5.0,50.0
+2025-05-13 03:38:44.050632910,Loja Sul,Sul,Pizza Frango,4.0,35.0
+2025-05-15 10:19:44.810126582,Loja Sul,Sul,Pizza Vegetariana,1.0,30.0
+2025-05-17 17:00:45.569620252,Loja Shopping,Centro-Oeste,Pizza Margherita,5.0,25.0
+2025-05-19 23:41:46.329113924,Loja Sul,Sudeste,Pizza Frango,10.0,55.0
+2025-05-22 06:22:47.088607594,Loja Norte,Sul,Pizza Quatro Queijos,1.0,55.0
+2025-05-24 13:03:47.848101266,Loja Shopping,Sul,Pizza Calabresa,10.0,30.0
+2025-05-26 19:44:48.607594936,Loja Norte,Centro-Oeste,Pizza Quatro Queijos,6.0,25.0
+2025-05-29 02:25:49.367088606,Loja Norte,Centro-Oeste,Pizza Calabresa,2.0,25.0
+2025-05-31 09:06:50.126582278,Loja Shopping,Sudeste,Pizza Quatro Queijos,4.0,25.0
+2025-06-02 15:47:50.886075948,Loja Norte,Sudeste,Pizza Portuguesa,7.0,50.0
+2025-06-04 22:28:51.645569620,Loja Centro,Centro-Oeste,Pizza Portuguesa,4.0,55.0
+2025-06-07 05:09:52.405063290,Loja Norte,Sudeste,Pizza Calabresa,2.0,30.0
+2025-06-09 11:50:53.164556962,Loja Shopping,Centro-Oeste,Pizza Frango,8.0,50.0
+2025-06-11 18:31:53.924050632,Loja Centro,Sul,Pizza Vegetariana,8.0,30.0
+2025-06-14 01:12:54.683544304,Loja Norte,Centro-Oeste,Pizza Margherita,2.0,35.0
+2025-06-16 07:53:55.443037974,Loja Centro,Sul,Pizza Quatro Queijos,4.0,45.0
+2025-06-18 14:34:56.202531644,Loja Sul,Sul,Pizza Frango,3.0,50.0
+2025-06-20 21:15:56.962025316,Loja Norte,Nordeste,Pizza Quatro Queijos,8.0,55.0
+2025-06-23 03:56:57.721518986,Loja Norte,Sudeste,Pizza Portuguesa,9.0,25.0
+2025-06-25 10:37:58.481012658,Loja Centro,Nordeste,Pizza Frango,8.0,30.0
+2025-06-27 17:18:59.240506328,Loja Sul,Nordeste,Pizza Calabresa,11.0,30.0
+2025-06-30 00:00:00.000000000,Loja Sul,Centro-Oeste,Pizza Portuguesa,9.0,35.0
